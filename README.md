@@ -33,7 +33,7 @@ dotnet tool install -g Mjc.CLI --add-source ./nupkg
 ```
 
 ## 💻 Usage
-Once installed, you can generate a new signature project from anywhere in your terminal:
+Once installed, you can generate a new .Net Web Api project from anywhere in your terminal:
 ```bash
 mjc dotnet-web-api <YourProjectName>
 ```
