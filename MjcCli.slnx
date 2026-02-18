@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MjcCli/MjcCli.csproj" />
+  </Folder>
+  <Folder Name="/src/Templates/" />
+  <Folder Name="/src/Templates/DotnetWebApi/">
+    <Project Path="src/Templates/DotnetWebApi/DotnetWebApi.Application/DotnetWebApi.Application.csproj" />
+    <Project Path="src/Templates/DotnetWebApi/DotnetWebApi.Domain/DotnetWebApi.Domain.csproj" />
+    <Project Path="src/Templates/DotnetWebApi/DotnetWebApi.Infrastructure/DotnetWebApi.Infrastructure.csproj" />
+    <Project Path="src/Templates/DotnetWebApi/DotnetWebApi.WebApi/DotnetWebApi.WebApi.csproj" />
+  </Folder>
+</Solution>
