@@ -1,9 +1,14 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/MjcCli/MjcCli.csproj" />
   </Folder>
   <Folder Name="/src/Templates/" />
   <Folder Name="/src/Templates/DotnetWebApi/">
+    <File Path="src/Templates/DotnetWebApi/.template.config/template.json" />
     <Project Path="src/Templates/DotnetWebApi/DotnetWebApi.Application/DotnetWebApi.Application.csproj" />
     <Project Path="src/Templates/DotnetWebApi/DotnetWebApi.Domain/DotnetWebApi.Domain.csproj" />
     <Project Path="src/Templates/DotnetWebApi/DotnetWebApi.Infrastructure/DotnetWebApi.Infrastructure.csproj" />
