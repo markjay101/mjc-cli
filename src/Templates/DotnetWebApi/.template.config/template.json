@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Mark Jay Cuyos",
+  "classifications": [ "WebAPI" ],
+  "name": "MJC Clean Architecture Dotnet Web API",
+  "shortName": "mjc-dotnet-web-api",
+  "identity": "Mjc.CleanArch.Dotnet.WebApi.Tmpl",
+  "sourceName": "DotnetWebApi",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
